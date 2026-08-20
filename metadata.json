@@ -1,0 +1,6 @@
+{
+  "name": "Neon Cube Rush",
+  "description": "Tezkor va yorqin neon 2D platformer rhythm o'yini: Cube, Ship, Ball, Wave rejimlari, portallar, level editor va garage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
